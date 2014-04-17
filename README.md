@@ -24,6 +24,6 @@ Starting that private project might be getting ahead of myself though. First I n
 So I plan to put up a lot of work in a lot of projects and let it speak for itself. Maybe I've finally met my muse. Or maybe I should say met my medium. And maybe McLuhan should have said the medium is the muse, not the message. 
 
 
-http://gletz.github.io/github.io/
+http://gletz.github.io/gletzdesign
 
 
